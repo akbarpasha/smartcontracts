@@ -1,3 +1,3 @@
 # Exploring Smart Contracts
 
-[Ethereum Basic](basics.md)
+[Ethereum Basics](basics.md)
